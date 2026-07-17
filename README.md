@@ -1,29 +1,156 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rizwan</h1>
-<h3 align="center">A passionate Full Stack developer fro🚀 Passionate Full Stack Developer from India | React • Next.js • Node.js • GraphQL • PostgreSQLm India</h3>
 
-- 🔭 I’m currently working on Vassu Tech Services Pvt. Ltd. [Title Genius Order Management System](https://orders.mytitlegenius.com/)
+<h3 align="center">
+🚀 Full Stack Developer | React • Next.js • Node.js • GraphQL • PostgreSQL
+</h3>
 
-- 🌱 I’m currently learning **AI Engineering • Agentic AI • System Design • Docker • AWS**
+<h4 align="center">
+Building scalable Web & Mobile Applications • Learning AI Engineering & Swift
+</h4>
 
-- 👯 I’m looking to collaborate on [AI Applications • React • Next.js • React Native Projects](https://github.com/mohammedrizwan6477)
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohammedrizwan6477](https://github.com/mohammedrizwan6477)
-
-- 💬 Ask me about **React.js, Next.js, Node.js, GraphQL, PostgreSQL, Prisma, React Native, REST APIs, Full Stack Development**
-
-- 📫 How to reach me **mohammedrizwan6477@gmail.com**
-
-- 📄 Know about my experiences [https://mrizwan-porftolio-dev.vercel.app/](https://mrizwan-porftolio-dev.vercel.app/)
-
-- ⚡ Fun fact **I believe consistency is more important than motivation.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://mrizwan-porftolio-dev.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://mrizwan-porftolio-dev.vercel.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedrizwan6477/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammedrizwan6477/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohammedrizwan6477&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/mohammedrizwan6477?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/mohammedrizwan6477?label=Stars&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrizwan6477&show_icons=true&locale=en&layout=compact" alt="mohammedrizwan6477" /></p>
+# 💫 About Me
+
+- 🔭 Currently working at **Vassu Tech Services Pvt. Ltd.**
+- 🚀 Building **Title Genius Order Management System**
+- 🌱 Learning **AI Engineering, Agentic AI, Swift, System Design, Docker & AWS**
+- 👯 Looking to collaborate on **Full Stack & AI Projects**
+- 💬 Ask me about **React, Next.js, Node.js, GraphQL, Prisma, PostgreSQL & React Native**
+- 📫 Reach me at **mohammedrizwan6477@gmail.com**
+- 🌐 Portfolio: **https://mrizwan-portfolio-dev.vercel.app/**
+- ⚡ Fun fact: **Consistency beats motivation.**
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://reactnative.dev/img/header_logo.svg" width="45"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,docker,aws" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 AI Engineering
+- 🧠 Agentic AI
+- 🍎 Swift & SwiftUI
+- 🏗️ System Design
+- 🐳 Docker
+- ☁️ AWS
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedrizwan6477&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizwan6477&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohammedrizwan6477&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedrizwan6477&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedrizwan6477&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammedrizwan6477/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mohammedrizwan6477@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://mrizwan-portfolio-dev.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Current Goals
+
+✅ Become a Full Stack AI Engineer
+
+✅ Publish React Native Applications
+
+✅ Learn Swift & iOS Development
+
+✅ Contribute to Open Source
+
+✅ Build Enterprise-Level Applications
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
